@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-transformers
-torch
-torchvision
-pillow
-python-multipart
-sacremoses
